@@ -3,14 +3,12 @@
 
 <div >
   <div align='center'>
-   <img  width="60" height="60"src="https://res.cloudinary.com/dtotfsciz/image/upload/v1718078871/jizurnuoxq6xqvswxwuh.png"/>
+ 
   <h3 align="center">Packed with Brain JS, Lang Chain, Node JS, Express and Mongo DB</h3>
    <img src="https://skillicons.dev/icons?i=nodejs,express,mongo"/>
     </div>
   <div />
-      <div align='center'>
-   <img   width="150" height="120" src="https://res.cloudinary.com/dtotfsciz/image/upload/v1718079263/y5uezi4zxdos09gcf91f.png"/>
-           </div>
+    
 </div>
 
 
