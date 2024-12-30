@@ -1,10 +1,3 @@
-<a href="https://www.youtube.com/@RitikPrasad-lz8fk">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./rp_banner.jpeg" />
-    <source media="(prefers-color-scheme: light)" srcset="./rp_banner.jpeg" />
-    <img alt="VisionCamera" src="./rp_banner.jpeg" />
-  </picture>
-</a>
 
 
 
@@ -38,7 +31,6 @@ Reelzzz App is a powerful, High-performance Social Media app built using React N
 * 📱 Highly optimised Typescript Reel Scroll
 * 🎞️ Streaming Videos / Uploading Videos and Photos (Chunk upload)
 * 🗿 Using High Level Optimisation for react native ( Memoizing , Callbacks)
-* 🧩 [Required Initial Setup Must Watch!!!!](https://www.youtube.com/watch?v=QIZDVvZCuI0) (This initial setup is required for all credentials and setup)
 * 🎨 Hardcore Caching and Memory management
 * 🔍 Fully Typescript
 * 🎞️ GIPHY - gif Implementation
@@ -52,9 +44,7 @@ Before you begin, make sure you have Node.js and npm installed on your system.Yo
 
 1. Clone this repository to your local machine:
 
-```sh
-   git clone https://github.com/Ritik5Prasad/reelzzz_public.git
-```
+
 
 2. Navigate to the project directory:
 
